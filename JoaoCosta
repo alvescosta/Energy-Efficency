@@ -1,0 +1,42 @@
+
+Energy performance measures : Solar Thermal Collectors
+
+Installation of a solar thermal system to get hot water to power showers and kitchen.
+
+Comparison between a solar thermal collector and a PHE system with steam:
+
+
+Data:
+
+Solar thermal panels:
+  12 Panels solar thermal concentrators of 1 [m2] each
+	Temperature: 60-70 [ºC]
+	Pressure internal circuit: 3 [bar]
+	Pump circulation PtMax: 115 [W]
+	Constant flow circulation: 1 [m3 / h]
+	Reservoir: 2 [m3]
+	Closed water circuit with antifreeze
+	Piping 1 "
+
+Circuit PHE exchanger steam – water
+	Reservoir: 0.3 [m3]
+	Pump circulation: 200 [W]
+	Exchanger plates: 200x400 [mm]
+	Vapour pressure: 1.5 [bar]
+
+Service water supply circuit (common to Solar thermal panels and steam -water circuit)
+	Diameter: 1 1/4''
+	Average water temperature input: 20 [º C]
+	Minimum output temperature: 40 [º C]
+	Pressure: 2.5 [bar]
+	Flow: depends on the consumption and use of showers rooms and the kitchen (it is considered a total daily intake of 2 [m3])
+
+
+Operation Mode:
+
+Before
+	Before the installation of this system, the heating water resorted to the use of steam, using, exclusivity a Plate Heat Exchanger (PHE).
+
+
+After
+	Assembly of solar panels that allow replacing the existing PHE exchanger, and the use of a smaller PHE which uses lower steam flow to heat the water when there is no sun.
